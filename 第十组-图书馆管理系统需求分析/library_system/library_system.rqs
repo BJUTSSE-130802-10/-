@@ -1,0 +1,18 @@
+[Project]
+Owner=Unknown
+Name=library_system
+GUID={9A71BC37-A71F-4ED8-8AD6-28EC2B3676C8}
+CQWebURL=
+isTrackChangesAllowed=1
+Description=
+Owner Key=1
+Revision number=1.0001
+Prefix=
+NbrRequirements=0
+Directory=C:\Users\sse\Desktop\library_system\library_system.rqs
+Key=1
+
+[Application]
+Data file version=1.0040
+Program Version=9.100.0.1
+

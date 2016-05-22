@@ -1,0 +1,10 @@
+
+[ODBC]
+DRIVER=Microsoft Access Driver (*.mdb)
+
+[DBMaint]
+CompactDate=2016-05-18 14:02:32
+CompactBaselineSize=1347584
+CompactPreviousSize=1482752
+CompactThresholdSize=10
+
